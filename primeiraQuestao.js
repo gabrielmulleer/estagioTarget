@@ -6,4 +6,5 @@ while(k<index){
 
 sum = sum + k;
 }
-console.log(sum)
+
+console.log(`O valor da variável soma será: ${sum}`) // Saída: O valor da variável soma será: 91.
