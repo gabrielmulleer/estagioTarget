@@ -1,0 +1,11 @@
+a) É uma sequência de números ímpares. Portanto, o próximo número ímpar após 7 é 9.
+
+b) Cada número é dobrado em relação ao anterior. Portanto, o próximo número seria 64 * 2 = 128.
+
+c) É uma sequência dos quadrados dos números naturais. O próximo número seria o quadrado de 7, que é 49.
+
+d) É uma sequência  dos quadrados dos números pares (2, 4, 6, 8, ...). O próximo número seria o quadrado de 8, que é 64.
+
+e) Esta é a sequência de Fibonacci, onde cada número é a soma dos dois números anteriores. O próximo número seria 5 + 8 = 13.
+
+f) Esta é uma sequência de todos os números começam com a letra D. Logo o próximo número será 200.
